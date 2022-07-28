@@ -45,7 +45,6 @@
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-ui</artifactId>
-			<!--suppress UnresolvedMavenProperty -->
 			<version>${openapi.version}</version>
 		</dependency>
 	</dependencies>
