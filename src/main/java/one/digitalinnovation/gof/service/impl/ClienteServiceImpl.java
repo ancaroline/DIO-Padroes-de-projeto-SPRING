@@ -7,9 +7,11 @@ import one.digitalinnovation.gof.model.EnderecoRepository;
 import one.digitalinnovation.gof.service.ClienteService;
 import one.digitalinnovation.gof.service.ViaCepService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.Optional;
 
+@Service
 public class ClienteServiceImpl implements ClienteService {
     // Singleton: Injetar os componentes do Spring com @Autowired
     @Autowired
