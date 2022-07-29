@@ -5,3 +5,8 @@ Os seguintes módulos foram selecionados:
 - Spring Web
 - H2 Database
 - OpenFeign
+
+//Singleton
+//Strategy
+//Facade
+
